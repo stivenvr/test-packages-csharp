@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project>
+	<PropertyGroup>
+		<ManagePackageVersionCentrally> true </ManagePackageVersionCentrally>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageVersion Include = "MediatR" Vesion = "12.4.1" />
+		<PackageVersion Include = "Microsoft.EntityFrameworkCore" Vesion = "8.0.2" />
+	</ItemGroup>
+</Project>
